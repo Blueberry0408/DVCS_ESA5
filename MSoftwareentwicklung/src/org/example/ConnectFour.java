@@ -11,7 +11,6 @@ import java.util.Scanner;
  * own discs of the same symbol consecutively in a horizontal, vertical,
  * or diagonal row before the opponent.
  * by Aaliyah Roderer for CCD
- * added comment through GitHub for Pull on IntelliJ
  */
 public class ConnectFour {
 
